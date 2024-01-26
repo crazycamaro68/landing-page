@@ -8,7 +8,7 @@ body{
     padding-left: 50px;
     padding-right: 50px;
 }
-.header{
+.Header{
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -30,7 +30,7 @@ ul{
     padding-top: 50px;
     padding-bottom: 50px;
 }
-.main-text{
+.Main-text{
     font-size: 48px;
     font-weight:900;
     color: #F9FAF8;
